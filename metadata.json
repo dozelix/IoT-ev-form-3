@@ -1,0 +1,6 @@
+{
+  "name": "Telemetría ESP32",
+  "description": "Telemetría IoT en tiempo real desde ESP32 mediante broker MQTT HiveMQ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
